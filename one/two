@@ -1,0 +1,14 @@
+container
+万能容器
+包干单个widget的widget称为容器，把包含多个widget的widget称为布局
+容器本身也是布局，布局本质上是对控件的位置管理
+container可以放置child子元素
+如果不放置child
+
+脚手架中
+appbar不设置，body就会占满屏幕
+
+
+appbar
+ title
+
